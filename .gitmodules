@@ -1,0 +1,3 @@
+[submodule "lists"]
+    path = app/view/welcome/lists
+    url = git@github.com:jarek707/angularLists.git/js
